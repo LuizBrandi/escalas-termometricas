@@ -1,0 +1,1 @@
+Conversor de temperatura utilizando as escalas termométricas Celsius, Fahrenheit e Kelvin.
